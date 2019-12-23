@@ -8,3 +8,12 @@
 </div>
 
 ---
+
+
+---
+
+<div>
+<img src="https://github.com/silencesmile/Christmas_Hat/blob/master/Image/output.jpg" width="70%">
+</div>
+
+---
